@@ -1,3 +1,6 @@
+#dataset: Congressional Voting Records Data Set
+#LINK: https://archive.ics.uci.edu/ml/datasets/Congressional+Voting+Records
+
 # Import KNeighborsClassifier from sklearn.neighbors
 from sklearn.neighbors import KNeighborsClassifier
 
